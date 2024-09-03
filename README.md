@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/647db9d4-4bdd-4d0c-a05b-f19b2c742bda)
+
 ## ¡Hola! 👋 Soy Roberto Reyna
 
 🔍 **Sobre mí:**
