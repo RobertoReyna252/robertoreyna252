@@ -35,6 +35,7 @@ Soy un Analista de Datos y entusiasta de la Inteligencia Artificial con una sól
 📫 **Cómo contactarme:**
 
 - Email: robertoreynarios@gmail.com
+  <br>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertoreynarios/)
 
 
